@@ -1,0 +1,153 @@
+body {
+	background-color: black;
+	cursor: url("penis_48.png"), pointer;
+}
+
+.header2 {
+	background-color: black ;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	padding-top: 0px;
+	margin-bottom: -25px;
+	position: fixed;
+	display: flex;
+	bottom: 0 px;
+	left: 0px;
+	width: 100%;
+	padding: 20px 0;
+	border-bottom: 2px solid cadetblue;
+	border-radius: 5px;
+	margin-top: -20px;
+
+}
+hr {
+	width: 200px;
+	height: 1px;
+	border-radius: 5px;
+	background-color: white;
+	border-color: black;
+}
+.hr0 {
+	width: 99%;
+	color: white;
+	background-color: white;
+}
+.footer2 {
+	background-color: black ;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	margin-bottom: -25px;
+	display: flex;
+	bottom: 0 px;
+	left: 0px;
+	width: 100%;
+	padding: 20px 0;
+}
+h1{
+	font-family: 'Inter', sans-serif;
+	font-family: 'Neucha', cursive;
+	font-family: 'Oswald', sans-serif;
+}
+p {
+	font-family: 'Inter', sans-serif;
+	font-family: 'Neucha', cursive;
+	font-family: 'Oswald', sans-serif;
+}
+pre {
+	font-family: 'Inter', sans-serif;
+	font-family: 'Neucha', cursive;
+	font-family: 'Oswald', sans-serif;
+}
+span { 
+	color: red;
+}
+.block1 {
+	color: white;
+	float: left;
+	margin-top: 100px;
+	width: 90%;
+	padding-left: 15px;
+	margin-right: 200px;
+	font-size: 15px;
+}
+.block2 {
+	color: burlywood;
+	text-align: center;
+	float: center;
+	font-size: 35px;
+
+}
+.block3 {
+	color: white;
+	font-size: 30px;
+	float: center;
+	line-height: 1.5em;
+	padding-top: 5px;
+	display: flex;
+	margin-top: -50px;
+}
+.block4 {
+	text-align: left;
+	color: whitesmoke;
+	font-size: 10px;
+	width: 200px;
+	margin-left: 50px;
+}
+button {
+	background-color: black;
+	border-radius: 40px;
+	font-family: 'Inter', sans-serif;
+	font-family: 'Neucha', cursive;
+	font-family: 'Oswald', sans-serif;
+
+}
+video {
+	float: right;
+	opacity: 0;
+	border-radius: 400px;
+	transform: translate(0, 0);
+	transition: 5s;
+	margin-right: -720px;
+
+}
+.button1 {
+	width: 500px;
+}
+.btn-ok {
+	color: white;
+	font-size: 40px;
+	border-radius: 40px;
+	max-width: 300px;
+	margin-left: 950px;
+}
+.button1:hover video{
+	opacity: 1;
+}
+.img-slide1 {
+	float: left;
+	width: 50px;
+	height: 50px;
+
+}
+.img-slide2 {
+	float: right;
+	width: 50px;
+	height: 50px;
+	transform: rotate(180deg);
+}
+.img-penis {
+	float: left;
+	width: 50px;
+	height: 50px;
+}
+a {
+	text-decoration: none;
+}
+a:visited {
+	color: cadetblue;
+}
+a:hover {
+	color: red;
+}
